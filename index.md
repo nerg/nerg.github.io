@@ -1,5 +1,6 @@
 ---
 title: superpun.ch
+layout: default
 ---
 ![alt text](https://github.com/nerg/nerg.github.io/blob/main/logo.png?raw=true)
 
